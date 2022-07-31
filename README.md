@@ -31,5 +31,5 @@ Frameworks
 
 ## 💻 Projeto
 
-Fiz uma calculadora simples, como atividade final do curso de flutter realizado pela DELL. O projeto permite fazer operações matemáticas básicas. Espero que gostem.<p align="center">
+Fiz uma calculadora simples, como atividade final do curso de flutter realizado pela DELL. O projeto permite fazer operações matemáticas básicas. E demonstrar o funcionamento do MobX. Espero que gostem.<p align="center">
 </p>
