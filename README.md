@@ -11,8 +11,8 @@
 <br>
 
 <p align="center">
-  <img alt="Calculadora" src="https://github.com/LLR798/calculadora_simples_com_mobx/blob/main/previews/Screenshot1.png?raw=true" width="50%">
-  <img alt="Calculadora" src="https://github.com/LLR798/calculadora_simples_com_mobx/blob/main/previews/Screenshot2.png?raw=true" width="50%">
+  <img alt="Calculadora" src="https://github.com/LLR798/calculadora_simples_com_mobx/blob/main/previews/Screenshot1.png?raw=true" width="34%">
+  <img alt="Calculadora" src="https://github.com/LLR798/calculadora_simples_com_mobx/blob/main/previews/Screenshot2.png?raw=true" width="34%">
 </p>
 
 
